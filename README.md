@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+-:computer: I want to be a full stack developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
