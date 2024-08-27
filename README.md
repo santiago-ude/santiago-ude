@@ -19,7 +19,7 @@
 
 💻 I want to be a full stack developer <br>
 🎓 I am studying at the UTN in mar del plata, Argentina <br>
-⌚ This is my last year of college. <br>
+⌚ This is my last year of college.
 
 <br><br>
 
