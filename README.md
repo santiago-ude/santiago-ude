@@ -53,10 +53,10 @@
 
 - **Softwares and Tools**:
 
-[![VSC](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![INTELLIJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![GIT](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+   [![VSC](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+   [![INTELLIJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+   [![GIT](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+   [![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
 
