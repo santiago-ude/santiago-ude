@@ -59,14 +59,6 @@
    [![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
-
-<br>
-
-- **Extras**:
-
-    [![NOTION](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
-    [![GMAIL](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-
 </p>
 
 <br>
