@@ -40,7 +40,7 @@
 
 <br>   
     
-- **In Progress**:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=In+Progress..." alt="Typing SVG" /></a>
 
    [![ANGULAR](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
    [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
