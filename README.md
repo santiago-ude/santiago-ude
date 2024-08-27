@@ -17,11 +17,9 @@
 
 <br>
 
--:computer: I want to be a full stack developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+💻 I want to be a full stack developer
+🎓 I am studying at the UTN in mar del plata, Argentina
+⌚ This is my last year of college.
 
 <br><br>
 
