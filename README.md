@@ -37,8 +37,7 @@
 - **Languages**:
     
     [![C](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-    ![JAVA](https://skillicons.dev/icons?i=all))
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    
 
 <br>   
     
