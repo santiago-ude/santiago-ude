@@ -33,9 +33,9 @@
 <p align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Languages" alt="Typing SVG" /></a>
-    
-    [![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-    [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
+   [![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+   [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
     
 
 <br>   
