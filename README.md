@@ -68,7 +68,7 @@
 <br>
 <div align='left'>
 
-   [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/santi-ude-889707300)
+   [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santi-ude-889707300/)
    [![GMAIL](https://skillicons.dev/icons?i=gmail)](santiude2004@gmail.com)
   [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiude_/)
 
