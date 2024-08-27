@@ -74,8 +74,10 @@
 	<p>
 		
 	
-<a href="www.linkedin.com/in/santi-ude-889707300" target="_blank"></a>
-[![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+<a href="www.linkedin.com/in/santi-ude-889707300" target="_blank">
+[![GITHUB](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</a>
+
 </p>
 </li>
 
