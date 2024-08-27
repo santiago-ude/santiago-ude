@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<a href="https://github.com/santiago-ude"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;FrontEnd;Backend;In+Progress" alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg](https://github.com/santiago-ude?tab=repositories)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;FrontEnd;Backend;In+Progress..." alt="Typing SVG" /></a>
   
 </p>
 
