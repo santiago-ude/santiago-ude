@@ -64,39 +64,14 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Contact" alt="Typing SVG" /></a>
 <br>
 <div align='left'>
 
-<ul>
+  [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+   [![GMAIL](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+   [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 
-<li>
-	<p>
-		
-	
-<a href="www.linkedin.com/in/santi-ude-889707300" target="_blank"> f</a>
-[![GITHUB](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
-</p>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
