@@ -36,7 +36,8 @@
 
 - **Languages**:
     
-    [![C](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+    [![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+    [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
     
 
 <br>   
