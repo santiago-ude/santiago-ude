@@ -68,9 +68,9 @@
 <br>
 <div align='left'>
 
-  [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+   [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
    [![GMAIL](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-   [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+  [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiude_/)
 
 </div>
 
