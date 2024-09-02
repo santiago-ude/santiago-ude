@@ -68,7 +68,6 @@
 
    [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santi-ude-889707300/)
    [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:santiude2004@gmail.com)
-  [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiude_/)
 
 </div>
 
